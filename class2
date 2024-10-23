@@ -1,0 +1,11 @@
+class user:
+    def __init__(self,useri,ism,email):
+        self.useri=useri
+        self.ism=ism
+        self.email=email
+    get_useri(self):
+        print(f"Foydalanuvchi:{useri}")
+    get_ism(self):
+        print(f"Ismi: {ism}")
+    get_email(self):
+        print(f"email: {email}")
